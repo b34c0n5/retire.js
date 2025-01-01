@@ -16,7 +16,7 @@
     "ansi-colors": "^4.1.1",
     "astronomical": "^1.0.0",
     "commander": "^10.0.1",
-    "proxy-agent": "^6.4.0",
+    "proxy-agent": "^6.5.0",
     "uuid": "^9.0.1",
     "walkdir": "0.4.1",
     "zod": "^3.22.4"
